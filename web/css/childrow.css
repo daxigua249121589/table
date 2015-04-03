@@ -1,0 +1,7 @@
+td.details-control {
+    background: url('/web/img/jquery.datatables/details_open.png') no-repeat center center;
+    cursor: pointer;
+}
+tr.shown td.details-control {
+    background: url('/web/img/jquery.datatables/details_close.png') no-repeat center center;
+}
